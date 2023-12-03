@@ -1,0 +1,5 @@
+spring:
+ datasource:
+  url: jdbc:mysql://24.144.92.187:22/miam
+  username: miam
+  password: miam
